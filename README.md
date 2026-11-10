@@ -1794,7 +1794,7 @@ This repo can serve as inspiration for your portfolio!
 - [Saurav](https://sauravmh.com)
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
 - [Sawyer Hollenshead](https://www.sawyer.soy)
-- [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
+- [Sayan Pramanik](https://sayanpk.in)
 - [Sayandeep Majumdar](https://sayandeepmajumdar.github.io) [Software Engineer]
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
